@@ -1,0 +1,2 @@
+# Machine-Learning-Enhanced-Adaptive-DDoS-Filtering
+This project presents an ML-based adaptive DDoS filtering system that bridges detection and mitigation. Using Random Forest and XGBoost on real traffic data, it performs real-time classification and feature-driven granularity selection (IP, port, subnet) to generate dynamic filtering rules, balancing detection accuracy with mitigation efficiency.
